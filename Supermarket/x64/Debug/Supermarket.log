@@ -1,0 +1,8 @@
+﻿  Supermarket.cpp
+D:\university programming\Supermarket\Supermarket\Citation.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Supermarket.cpp')
+  
+D:\university programming\Supermarket\Supermarket\Supermarket.cpp(104,23): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\university programming\Supermarket\Supermarket\Supermarket.cpp(165,62): warning C4390: ';': empty controlled statement found; is this the intent?
+D:\university programming\Supermarket\Supermarket\Supermarket.cpp(555): warning C4715: 'checkManagerCode': not all control paths return a value
+  Supermarket.vcxproj -> D:\university programming\Supermarket\x64\Debug\Supermarket.exe
