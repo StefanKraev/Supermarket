@@ -1,0 +1,15 @@
+RECEIPT
+
+TRANSACTION_ID: 65
+
+CASHIER_ID: 4351
+
+Date: today
+
+--------------------
+
+Vafla
+
+2*2-4
+
+TOTAL:4
