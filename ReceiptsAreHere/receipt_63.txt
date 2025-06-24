@@ -1,0 +1,19 @@
+RECEIPT
+
+TRANSACTION_ID: 63
+
+CASHIER_ID: 4351
+
+Date: today
+
+--------------------
+
+Vafla
+
+1*2-2
+
+monster
+
+2*3-6
+
+TOTAL:8
